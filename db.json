@@ -1,0 +1,71 @@
+{
+  "filmes":[
+    {
+      "id" : 1,
+      "filme": "PANTERA NEGRA",
+      "cinopse" : "Pantera Negra: Wakanda Para Sempre é do premiado diretor e roteirista dos sucessos Pantera Negra (2018) e Creed: Nascido para Lutar (2015). Após a morte do rei T?Challa, o perigo ronda Wakanda e a ameaça à paz é iminente. Para evitar que o reino caia nas mãos do inimigo, a Rainha Ramonda (Angela Bassett) precisará de muita união. Para isso, ela contará com o apoio de Shuri (Letitia Wright), M?Baku (Winston Duke), Okoye (Danai Gurira) e as guerreiras Dora Milaje. Unidos com a veterana guerreira Nakia (Lupita Nyong?o) e o agente Everett Ross (Martin Freeman), eles enfrentarão os novos oponentes da nação e também confrontarão com o poderoso príncipe submarino Namor (Tenoch Huerta)"
+    },
+    {
+      "id" : 2,
+      "filme": "ADÃO NEGRO",
+      "cinopse" : "Adão Negro faz parte do Universo Estendido DC e é o antagonista do herói apresentado em Shazam! (2019). Há cinco mil anos, a população de Kahndaq era dominada pelo medo e a escravidão. Teth-Adam (Dwayne Johnson) foi escolhido para receber os superpoderes de um mago (Djimon Hounsou) e tornar-se o herói desse povo. Algo aconteceu e esse homem, que sucumbiu ao poder, passou a ser conhecido como Adão Negro e tornou-se um vilão sem limites. Após anos adormecido, ele foi despertado e os membros da Sociedade da Justiça, como Sr. Destino (Pierce Brosnan), Esmaga-Átomo (Noah Centineo), Ciclone (Quintessa Swindell) e Gavião Negro (Aldis Hodge) precisarão unir forças para conter a sua fúria."
+    },
+    {
+      "id" : 3,
+      "filme": "MULHER REI",
+      "cinopse" : "A Mulher Rei é da mesma diretora e roteirista de A Vida Secreta das Abelhas (2008) e Nos Bastidores da Fama (2014). No passado, a chegada dos europeus na África indicava uma ameaça iminente ao continente. O rei Ghezo (John Boyega), no entanto, parecia não acreditar que isso poderia significar um perigo para seu reinado. Sua General Nanisca (Viola Davis), por sua vez, está convencida de que eles representam um perigo para a liberdade de seu povo e sugere que sejam combatidos o quanto antes. Para isso, membros da população convocados para integrar a Guarda do Rei, altamente treinados, serão colocados a prova numa batalha épica para salvar o reino de Dahomey. Baseado em eventos reais."
+    },
+    {
+      "id" : 4,
+      "filme": "A LUZ DO DEMÔNIO",
+      "cinopse" : "A Luz do Demônio é do mesmo diretor do sucesso O Último Exorcismo (2010). De acordo com o Vaticano, os casos de possessão demoníaca cresceram de forma assustadora. Para combater o mal, a igreja criou uma escola voltada ao treinamento de padres exorcistas. Estudiosa do assunto, a irmã Ann (Jacqueline Byers) visitou o local como convidada e ficou preocupada com o que viu. Após contar ao Padre Quinn (Colin Salmon) que reconhecia um dos demônios ali presentes, o professor pede aos seus líderes que ela seja treinada por ele. Agora, certa de que esse era seu destino, a freira dá início a uma sinistra jornada, que colocará sua alma em perigo diante de uma terrível força maligna de seu passado."
+    }
+  ],
+"cinemas":[
+    {
+      "id" : 1,
+      "LOCAIS" : "kINOPLEX FASHION MALL",
+      "ENDEREÇO" : "ESTRADA DA GÁVEA, 899 PAV.02 LJS.220/222"
+      
+    },
+    {
+      "id" : 2,
+      "LOCAIS" : "KINOPLEX LEBLON GLOBOPLAY",
+      "ENDEREÇO" : "Av.Ataulfo de Paiva, 391 Loja B Leblon"
+    },
+    {
+      "id" : 3,
+      "LOCAIS" : "KINOPLEX NOVA AMERICA",
+      "ENDEREÇO" : "AV.PASTOR MARTIN LUTHER KING JR,126-EC81"
+    },
+    {
+      "id" : 4,
+      "LOCAIS" : "KINOPLEX MADUREIRA",
+      "ENDEREÇO" : "ESTRADA DO PORTELA,222 LJ 408"
+    }
+  ],
+  "preços":[
+    {
+      "id" : 1,
+      "PACOTES" : "MEIA ,INTEIRA",
+      "PREÇO" : "R$ 25,00 ,R$ 50,00"
+    },
+    {
+      "id" : 2,
+      "PACOTES" : " SALA PLATINUM | TODO MUNDO PAGA MEIA | TODO MUNDO PAGA MEIA SALAS PLATINUM  ",
+      "PREÇO" : "MEIA R$ 44,00 ,INTEIRA R$ 88,00"
+    },
+    {
+      "id" : 3,
+      "PACOTES" : "DOBRADINHA KINOPLEX",
+      "PREÇO" : "De segunda a sexta (exceto feriados e pré-estreias) comprou um ingresso, o segundo é grátis! E + pipoca: você compra o Combo Super e a gente te dá mais pipoca, aumenta para o Combo Mega. Promoção não válida para o filme Pantera Negra e não válida aos sábados, domingos, feriados e em pré-estreias. Confira as regras da promoção e os cinemas participantes."
+    },
+    {
+      "id" : 4,
+      "PACOTES" : "KINOPASS",
+      "PREÇO" : "Quer cinema baratinho? Garanta o seu Kinopass. Saiba mais e aproveite!"
+    }
+    
+  ]
+
+}
